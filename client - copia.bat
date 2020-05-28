@@ -1,0 +1,1 @@
+"C:\Program Files\Epic Games\UE_4.24\Engine\Binaries\Win64\UE4Editor.exe" "C:\Users\Oziel Leos\Documents\Unreal Projects\MultiplayerWeaponSystem\MultiplayerWeaponSystem.uproject" 127.0.0.1 -game -WINDOWED -ResX=800 -ResY=600 -winX=0 -WinY=20 -log -nosteam
